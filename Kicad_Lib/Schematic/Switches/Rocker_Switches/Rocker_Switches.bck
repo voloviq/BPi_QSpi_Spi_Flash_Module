@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 2012-12-08 18:30:51
+#
+$CMP SW_SERIES_8600
+D 8600 Series Rocker Switches 10A 250VAC Single Position
+K Switch
+F Switches/Rocker_Switches/Components_Documentation/Rocker_Switches_8600.pdf
+$ENDCMP
+#
+#End Doc Library

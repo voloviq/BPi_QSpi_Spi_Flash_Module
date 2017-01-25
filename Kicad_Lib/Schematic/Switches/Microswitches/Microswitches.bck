@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DTSM-31N
+D Rectangular Push Button - DTSM-31N (12VDC, 500mA, 100mOhm max)
+K Microswitch
+F Switches/Microswitches/Components_Documentation/dtsm31n.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3  Date: 2012-12-08 18:30:51
+#encoding utf-8
+#
+# SW_SERIES_8600
+#
+DEF SW_SERIES_8600 Sw 0 40 Y Y 1 F N
+F0 "Sw" 0 250 60 H V C CNN
+F1 "SW_SERIES_8600" 0 350 60 H V C CNN
+$FPLIST
+ Rocker_Switch_8600_Series_Arcolectric
+$ENDFPLIST
+DRAW
+T 0 0 -75 60 0 0 0 0  Normal 1 C C
+T 0 0 75 60 0 0 0 1  Normal 1 C C
+S -150 200 150 -200 0 0 0 f
+S -100 150 100 -150 0 0 0 N
+P 2 0 0 0  100 0  -100 0 N
+X ~ 1 -400 0 300 R 50 50 1 1 I
+X ~ 2 400 0 300 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

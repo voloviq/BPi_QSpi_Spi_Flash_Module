@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT45DB161
+D 16-megabit 2V5 or 2V7 DataFlash
+K Flash
+F Memory_Eprom_Flash/Components_Documentation/AT45DB161D.pdf
+$ENDCMP
+#
+$CMP AT45DB321C
+D 32-megabit 2.7 volt DataFlash
+K Flash
+F Memory_Eprom_Flash/Components_Documentation/AT45DB321C_doc3387.pdf
+$ENDCMP
+#
+$CMP M27C1001
+D 1 Mbit (128 Kbit x 8) UV EPROM and OTP EPROM
+K Eprom
+F Eprom_Flash_Memory/Eprom/Components_Documentation/M27C1001.pdf
+$ENDCMP
+#
+$CMP M27C256B
+D 256 Kbit (32Kb x 8) UV EPROM and OTP EPROM
+K Eprom
+F Eprom_Flash_Memory/Eprom/Components_Documentation/M27C256B.pdf
+$ENDCMP
+#
+$CMP SST26VF016
+D Serial Quad I/O (SQI) Flash Memory
+K Flash
+F Memory_Eprom_Flash/Components_Documentation/SST26VF016_25017A.pdf
+$ENDCMP
+#
+$CMP SST26VF016B
+D 3.0V 16 Mbit Serial Quad I/O (SQI) Flash Memory
+K Flash
+F Memory_Eprom_Flash/Components_Documentation/SST26VF016B_20005262A.pdf
+$ENDCMP
+#
+$CMP SST26VF032B
+D 3.0V 32 Mbit Serial Quad I/O (SQI) Flash Memory
+K Flash
+F Memory_Eprom_Flash/Components_Documentation/SST26VF032B_20005218B.pdf
+$ENDCMP
+#
+$CMP TMS27C512
+D TMS27C512 65536 BY 8-BIT UV ERASABLE TMS27PC512 65536 BY 8-BIT PROGRAMMABLE READ-ONLY MEMORIES
+K Eprom
+F Eprom_Flash_Memory/Eprom/Components_Documentation/Tms27C512-10.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name 74xx)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/74xx/74xx.pretty")(options "")(descr ""))
+  (lib (name Capacitors_Smd_0805)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Capacitors/Smd_0805/Capacitors_Smd_0805.pretty")(options "")(descr ""))
+  (lib (name Diodes)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Diodes/Diodes.pretty")(options "")(descr ""))
+  (lib (name Goldpin)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Goldpin/Discrete_Goldpin/Goldpin.pretty")(options "")(descr ""))
+  (lib (name Memory_Eprom_Flash)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Memory_Eprom_Flash/Memory_Eprom_Flash.pretty")(options "")(descr ""))
+  (lib (name Resistor_Smd_0805)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Resistors/Smd_0805/Resistor_Smd_0805.pretty")(options "")(descr ""))
+  (lib (name Tact_Switches)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Switches/Tact_Smd/Tact_Switches.pretty")(options "")(descr ""))
+)

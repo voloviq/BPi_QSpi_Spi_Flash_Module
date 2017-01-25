@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DTSM-31N
+D Square Push Button - TACTM - 24NS (12VDC, 50mA, 0.25+/-0.1mm, 100mOhm max)
+K Switch
+F Switches/Tact_Smd/Components_Documentation/tactm-24n.pdf
+$ENDCMP
+#
+$CMP TACTM-24N
+D Square Push Button - TACTM - 24NS (12VDC, 50mA, 0.25+/-0.1mm, 100mOhm max)
+K Switch
+F Switches/Tact_Smd/Components_Documentation/tactm-24n.pdf
+$ENDCMP
+#
+#End Doc Library
