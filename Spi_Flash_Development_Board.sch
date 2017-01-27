@@ -1444,7 +1444,6 @@ NoConn ~ 2250 5000
 NoConn ~ 2250 5200
 NoConn ~ 1450 5200
 NoConn ~ 2250 6650
-NoConn ~ 2250 6750
 NoConn ~ 1500 7450
 NoConn ~ 1450 6550
 $Comp
@@ -1458,10 +1457,8 @@ F 3 "" H 4250 7600 60  0000 C CNN
 	1    4250 7600
 	-1   0    0    1   
 $EndComp
-Text GLabel 1350 7350 0    39   Output ~ 0
+Text GLabel 2250 6750 2    39   Output ~ 0
 SIG_LED
-Wire Wire Line
-	1500 7350 1350 7350
 $Comp
 L 330R_0805 R8
 U 1 1 5889373D
@@ -1504,4 +1501,47 @@ Connection ~ 7150 3050
 Wire Wire Line
 	3450 2750 3450 3050
 Connection ~ 3450 3050
+Text Notes 700  5050 0    60   ~ 0
+GPIO8
+Text Notes 700  5150 0    60   ~ 0
+GPIO9
+Text Notes 700  5450 0    60   ~ 0
+GPIO0
+Text Notes 700  5550 0    60   ~ 0
+GPIO2
+Text Notes 700  5650 0    60   ~ 0
+GPIO3
+Text Notes 700  5850 0    60   ~ 0
+GPIO12
+Text Notes 700  5950 0    60   ~ 0
+GPIO13
+Text Notes 700  6050 0    60   ~ 0
+GPIO14
+Text Notes 2750 6150 0    60   ~ 0
+GPIO11
+Text Notes 2750 6050 0    60   ~ 0
+GPIO10
+Text Notes 2750 5950 0    60   ~ 0
+GPIO6
+Text Notes 2750 5750 0    60   ~ 0
+GPIO5
+Text Notes 2750 5650 0    60   ~ 0
+GPIO4
+Text Notes 2750 5450 0    60   ~ 0
+GPIO1
+Text Notes 2750 5350 0    60   ~ 0
+GPIO16
+Text Notes 700  6700 0    60   ~ 0
+GPIO17
+Text Notes 2600 6700 0    60   ~ 0
+GPIO18
+Text Notes 700  6800 0    60   ~ 0
+GPIO19
+Text Notes 2600 6800 0    60   ~ 0
+GPIO20
+NoConn ~ 1500 7350
+Text Notes 700  5250 0    60   ~ 0
+GPIO7
+Text Notes 2750 5250 0    60   ~ 0
+GPIO15
 $EndSCHEMATC

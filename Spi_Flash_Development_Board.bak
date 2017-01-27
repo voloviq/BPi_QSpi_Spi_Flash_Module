@@ -278,17 +278,11 @@ Wire Wire Line
 Wire Wire Line
 	1850 3200 1550 3200
 Wire Wire Line
-	3350 3050 3450 3050
-Wire Wire Line
-	3450 3050 3650 3050
-Wire Wire Line
-	3650 3050 3750 3050
+	3350 3050 3750 3050
 Wire Wire Line
 	3750 2750 3650 2750
 Wire Wire Line
-	3650 2650 3650 2750
-Wire Wire Line
-	3650 2750 3650 3050
+	3650 2650 3650 3050
 Connection ~ 3650 3050
 Wire Wire Line
 	4250 3050 4150 3050
@@ -298,17 +292,13 @@ Connection ~ 3650 2750
 Wire Wire Line
 	1850 3500 1750 3500
 Wire Wire Line
-	1550 3050 1750 3050
-Wire Wire Line
-	1750 3050 1850 3050
+	1550 3050 1850 3050
 Wire Wire Line
 	1650 2650 1650 2900
 Wire Wire Line
 	1650 2900 1550 2900
 Wire Wire Line
-	1750 2650 1750 2750
-Wire Wire Line
-	1750 2750 1750 3050
+	1750 2650 1750 3050
 Connection ~ 1750 3050
 Wire Wire Line
 	2100 2750 1750 2750
@@ -441,17 +431,11 @@ Wire Wire Line
 Wire Wire Line
 	5550 3200 5250 3200
 Wire Wire Line
-	7050 3050 7150 3050
-Wire Wire Line
-	7150 3050 7350 3050
-Wire Wire Line
-	7350 3050 7450 3050
+	7050 3050 7450 3050
 Wire Wire Line
 	7450 2750 7350 2750
 Wire Wire Line
-	7350 2650 7350 2750
-Wire Wire Line
-	7350 2750 7350 3050
+	7350 2650 7350 3050
 Connection ~ 7350 3050
 Wire Wire Line
 	7950 3050 7850 3050
@@ -461,17 +445,13 @@ Connection ~ 7350 2750
 Wire Wire Line
 	5550 3500 5450 3500
 Wire Wire Line
-	5250 3050 5450 3050
-Wire Wire Line
-	5450 3050 5550 3050
+	5250 3050 5550 3050
 Wire Wire Line
 	5350 2650 5350 2900
 Wire Wire Line
 	5350 2900 5250 2900
 Wire Wire Line
-	5450 2650 5450 2750
-Wire Wire Line
-	5450 2750 5450 3050
+	5450 2650 5450 3050
 Connection ~ 5450 3050
 Wire Wire Line
 	5800 2750 5450 2750
@@ -604,17 +584,11 @@ Wire Wire Line
 Wire Wire Line
 	9200 3200 8900 3200
 Wire Wire Line
-	10700 3050 10800 3050
-Wire Wire Line
-	10800 3050 11000 3050
-Wire Wire Line
-	11000 3050 11100 3050
+	10700 3050 11100 3050
 Wire Wire Line
 	11100 2750 11000 2750
 Wire Wire Line
-	11000 2650 11000 2750
-Wire Wire Line
-	11000 2750 11000 3050
+	11000 2650 11000 3050
 Connection ~ 11000 3050
 Wire Wire Line
 	11600 3050 11500 3050
@@ -624,17 +598,13 @@ Connection ~ 11000 2750
 Wire Wire Line
 	9200 3500 9100 3500
 Wire Wire Line
-	8900 3050 9100 3050
-Wire Wire Line
-	9100 3050 9200 3050
+	8900 3050 9200 3050
 Wire Wire Line
 	9000 2650 9000 2900
 Wire Wire Line
 	9000 2900 8900 2900
 Wire Wire Line
-	9100 2650 9100 2750
-Wire Wire Line
-	9100 2750 9100 3050
+	9100 2650 9100 3050
 Connection ~ 9100 3050
 Wire Wire Line
 	9450 2750 9100 2750
@@ -767,17 +737,11 @@ Wire Wire Line
 Wire Wire Line
 	12800 3200 12500 3200
 Wire Wire Line
-	14300 3050 14400 3050
-Wire Wire Line
-	14400 3050 14600 3050
-Wire Wire Line
-	14600 3050 14700 3050
+	14300 3050 14700 3050
 Wire Wire Line
 	14700 2750 14600 2750
 Wire Wire Line
-	14600 2650 14600 2750
-Wire Wire Line
-	14600 2750 14600 3050
+	14600 2650 14600 3050
 Connection ~ 14600 3050
 Wire Wire Line
 	15200 3050 15100 3050
@@ -787,17 +751,13 @@ Connection ~ 14600 2750
 Wire Wire Line
 	12800 3500 12700 3500
 Wire Wire Line
-	12500 3050 12700 3050
-Wire Wire Line
-	12700 3050 12800 3050
+	12500 3050 12800 3050
 Wire Wire Line
 	12600 2650 12600 2900
 Wire Wire Line
 	12600 2900 12500 2900
 Wire Wire Line
-	12700 2650 12700 2750
-Wire Wire Line
-	12700 2750 12700 3050
+	12700 2650 12700 3050
 Connection ~ 12700 3050
 Wire Wire Line
 	13050 2750 12700 2750
@@ -868,9 +828,7 @@ F 3 "" H 8700 4750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8600 4850 8700 4850
-Wire Wire Line
-	8700 4850 9200 4850
+	8600 4850 9200 4850
 Wire Wire Line
 	8700 5150 8600 5150
 Connection ~ 8700 4850
@@ -889,13 +847,9 @@ Text GLabel 7750 5250 0    39   Input ~ 0
 Wire Wire Line
 	9200 5450 7750 5450
 Wire Wire Line
-	8700 4750 8700 4850
+	8700 4750 8700 5150
 Wire Wire Line
-	8700 4850 8700 5150
-Wire Wire Line
-	7750 5350 8000 5350
-Wire Wire Line
-	8000 5350 9200 5350
+	7750 5350 9200 5350
 $Comp
 L GOLDPIN_2_2_54MM P4
 U 1 1 5889CD43
@@ -930,9 +884,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 4950 8000 4950
 Wire Wire Line
-	8000 4750 8000 4950
-Wire Wire Line
-	8000 4950 8000 5350
+	8000 4750 8000 5350
 Connection ~ 8000 5350
 Wire Wire Line
 	8000 4750 7750 4750
@@ -953,9 +905,7 @@ $EndComp
 Wire Wire Line
 	6750 4750 6650 4750
 Wire Wire Line
-	10700 6700 11000 6700
-Wire Wire Line
-	11000 6700 11400 6700
+	10700 6700 11400 6700
 Wire Wire Line
 	11400 6700 11400 6900
 Wire Wire Line
@@ -1043,9 +993,7 @@ Text GLabel 7750 6850 0    39   Input ~ 0
 Text GLabel 7750 6950 0    39   Input ~ 0
 ~SIG_CS
 Wire Wire Line
-	7750 6850 8000 6850
-Wire Wire Line
-	8000 6850 9200 6850
+	7750 6850 9200 6850
 $Comp
 L GOLDPIN_2_2_54MM P5
 U 1 1 588A2615
@@ -1066,9 +1014,7 @@ Wire Wire Line
 Wire Wire Line
 	7800 7250 8000 7250
 Wire Wire Line
-	8000 6850 8000 7250
-Wire Wire Line
-	8000 7250 8000 7450
+	8000 6850 8000 7450
 Connection ~ 8000 6850
 Wire Wire Line
 	8000 7450 7750 7450
@@ -1112,9 +1058,7 @@ F 3 "" H 1250 4900 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	1250 4900 1350 4900
-Wire Wire Line
-	1350 4900 1450 4900
+	1250 4900 1450 4900
 $Comp
 L GND #PWR027
 U 1 1 588A3EFA
@@ -1247,11 +1191,11 @@ Text GLabel 2350 5700 2    39   Output ~ 0
 ~SIG_CS6
 Wire Wire Line
 	2350 6100 2250 6100
-Text GLabel 1350 5000 0    39   Output ~ 0
+Text GLabel 1350 5100 0    39   Output ~ 0
 ~SIG_CS4
 Wire Wire Line
 	1450 6000 1350 6000
-Text GLabel 1350 5100 0    39   Output ~ 0
+Text GLabel 1350 5000 0    39   Output ~ 0
 ~SIG_CS3
 Text GLabel 1350 6750 0    39   Output ~ 0
 ~SIG_CS2
@@ -1293,13 +1237,7 @@ Wire Wire Line
 Wire Wire Line
 	3800 5400 3700 5400
 Wire Wire Line
-	3700 5400 3700 5500
-Wire Wire Line
-	3700 5500 3700 5550
-Wire Wire Line
-	3700 5550 3700 5600
-Wire Wire Line
-	3700 5600 3700 5700
+	3700 5400 3700 5700
 Wire Wire Line
 	3700 5700 3800 5700
 Wire Wire Line
@@ -1401,17 +1339,13 @@ $EndComp
 Wire Wire Line
 	4950 7000 5050 7000
 Wire Wire Line
-	5050 7000 5050 7100
-Wire Wire Line
-	5050 7100 5050 7200
+	5050 7000 5050 7200
 Wire Wire Line
 	5050 7200 4950 7200
 Wire Wire Line
 	4050 7000 3950 7000
 Wire Wire Line
-	3950 7000 3950 7100
-Wire Wire Line
-	3950 7100 3950 7200
+	3950 7000 3950 7200
 Wire Wire Line
 	3950 7200 4050 7200
 $Comp
@@ -1442,9 +1376,7 @@ $EndComp
 Wire Wire Line
 	3850 6400 3850 6500
 Wire Wire Line
-	3750 7100 3850 7100
-Wire Wire Line
-	3850 7100 3950 7100
+	3750 7100 3950 7100
 Connection ~ 3950 7100
 $Comp
 L GND #PWR037
@@ -1512,7 +1444,6 @@ NoConn ~ 2250 5000
 NoConn ~ 2250 5200
 NoConn ~ 1450 5200
 NoConn ~ 2250 6650
-NoConn ~ 2250 6750
 NoConn ~ 1500 7450
 NoConn ~ 1450 6550
 $Comp
@@ -1526,10 +1457,8 @@ F 3 "" H 4250 7600 60  0000 C CNN
 	1    4250 7600
 	-1   0    0    1   
 $EndComp
-Text GLabel 1350 7350 0    39   Output ~ 0
+Text GLabel 2250 6750 2    39   Output ~ 0
 SIG_LED
-Wire Wire Line
-	1500 7350 1350 7350
 $Comp
 L 330R_0805 R8
 U 1 1 5889373D
@@ -1572,4 +1501,45 @@ Connection ~ 7150 3050
 Wire Wire Line
 	3450 2750 3450 3050
 Connection ~ 3450 3050
+Text Notes 700  5050 0    60   ~ 0
+GPIO8
+Text Notes 700  5150 0    60   ~ 0
+GPIO9
+Text Notes 700  5450 0    60   ~ 0
+GPIO0
+Text Notes 700  5550 0    60   ~ 0
+GPIO2
+Text Notes 700  5650 0    60   ~ 0
+GPIO3
+Text Notes 700  5850 0    60   ~ 0
+GPIO12
+Text Notes 700  5950 0    60   ~ 0
+GPIO13
+Text Notes 700  6050 0    60   ~ 0
+GPIO14
+Text Notes 2750 6150 0    60   ~ 0
+GPIO11
+Text Notes 2750 6050 0    60   ~ 0
+GPIO10
+Text Notes 2750 5950 0    60   ~ 0
+GPIO6
+Text Notes 2750 5750 0    60   ~ 0
+GPIO5
+Text Notes 2750 5650 0    60   ~ 0
+GPIO4
+Text Notes 2750 5450 0    60   ~ 0
+GPIO1
+Text Notes 2750 5350 0    60   ~ 0
+GPIO16
+Text Notes 700  6700 0    60   ~ 0
+GPIO17
+Text Notes 2600 6700 0    60   ~ 0
+GPIO18
+Text Notes 700  6800 0    60   ~ 0
+GPIO19
+Text Notes 2600 6800 0    60   ~ 0
+GPIO20
+NoConn ~ 1500 7350
+Text Notes 700  5250 0    60   ~ 0
+GPIO7
 $EndSCHEMATC
